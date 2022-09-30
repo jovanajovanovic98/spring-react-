@@ -1,0 +1,13 @@
+.main{
+  padding: 20px 20%;
+}
+
+.title{
+  text-align: center;
+  padding: 20px;
+  font-size: 28px;
+  font-weight: 600;
+}
+.selected >div>div{
+  background-color: #efefef;
+}
